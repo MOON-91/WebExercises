@@ -1,0 +1,53 @@
+body {
+  font-size: 15px;
+  line-height: 21px;
+  background-color: #000;
+  width: 100%;
+  font-family: 'Spiller','Arial','Helvetica','sans-serif';
+  overflow-x: hidden;
+}
+
+.Explore {
+  padding: 12px;
+}
+
+.header {
+  padding: 47px 10px 40px;
+}
+
+h1 {
+  font-size: 31px;
+  color: #fff;
+  text-align: center;
+}
+
+div.Explore {
+  display: table;
+  border-spacing: 10px;
+}
+
+div.tablerow {
+  display: table-row;
+  vertical-align: top;
+}
+
+.one {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.two {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.three {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.four {
+  display: table-cell;
+  vertical-align: top;
+}
+
